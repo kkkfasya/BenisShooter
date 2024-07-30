@@ -1,0 +1,44 @@
+* {
+  font-family: "Margarine", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+h3 {
+  margin: 0px;
+  margin-bottom: 10px;
+  font-size: 2.9em;
+  color: #fff;
+}
+
+canvas {
+  margin-top: 30px;
+  box-shadow: 0 0 50px 10px white;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0px;
+  margin: 0px;
+  height: 100vh;
+  background-image: url("../img/space.png");
+}
+
+#content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0px;
+  margin: 0px;
+}
+
+#content .gameover-text {
+  font-size: 36px;
+  text-align: center;
+}
+/* Tbh this is the shittiest css i've ever written but it works */

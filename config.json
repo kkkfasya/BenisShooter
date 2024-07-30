@@ -1,0 +1,15 @@
+{
+  "CostumMusic": false,
+  "MusicLink": "https://youtu.be/49NvZR8_CCs?si=wX9ZFsbOOs8EKwex",
+  "PlayerBulletColor": "white",
+  "EnemyBulletColor": "red",
+  "MaxPlayerAmmo": 4,
+  "MaxEnemyAmmo": 10,
+  "EnableSfx": true,
+  "ArenaWidth": 600,
+  "ArenaHeight": 500,
+  "PlayerMovSpeed": 1,
+  "EnemyMovSpeed": 1,
+  "EnemyRow": 6,
+  "EnemyCol": 10
+}
